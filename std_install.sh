@@ -6,6 +6,7 @@ sudo apt-get -y install python3
 sudo apt-get -y install ipython
 sudo apt-get -y install git
 sudo apt-get -y install latex
+sudo apt-get -y install texmaker
 sudo apt-get -y install sublime-text
 sudo apt-get -y install python-matplotlib
 sudo apt-get -y install python-numpy
@@ -28,3 +29,6 @@ wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh
 bash Anaconda2-4.3.1-Linux-x86_64.sh
 wget https://release.gitkraken.com/linux/gitkraken-amd64.deb
 sudo dpkg -i gitkraken-amd64.deb
+sudo apt-get -y install spell
+sudo apt install ubuntu-restricted-extras
+sudo pip install networkx
