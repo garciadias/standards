@@ -1,0 +1,13 @@
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.fontSize": 17,
+    "markdown.preview.fontSize": 17,
+    "terminal.integrated.fontSize": 17,
+    "files.autoSave": "afterDelay",
+    "python.pythonPath": "/home/d/anaconda3/bin/python3",
+    "python.linting.pylintPath": "/media/d/Data/git/journalclub/bin/pylint",
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "python.linting.pep8Enabled": true,
+    "editor.rulers": [79],
